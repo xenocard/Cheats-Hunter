@@ -1,0 +1,11 @@
+[Items dont decrease]
+04000000 00C66324 7100012A
+
+[Money is maxed when buying/selling at store*]
+04000000 018CDF94 B9000275
+
+[money doesnt decrease]
+04000000 018CDF84 11000108
+
+[Use an item to make it 998]
+04000000 00C66324 52807CCA
