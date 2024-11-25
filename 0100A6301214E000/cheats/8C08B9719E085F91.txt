@@ -181,5 +181,5 @@ A8120200 00000020
 04000000 0250e884 52807CE0
 04000000 0250eae4 52807CE0
 
-[bond xp x2(mod from GamerMan8010's code)]
+[emblem bond exp x2(mod from GamerMan8010's code)]
 040E0000 02B4DA88 0B140500
