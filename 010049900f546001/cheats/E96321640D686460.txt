@@ -1,10 +1,10 @@
-[o Infinite Lives]
+[Infinite Lives]
 01100000 38742a8d 00000063
 
-[o Infinite Health]
+[Infinite Health]
 02100000 38742a8e 00000008
 
-[o Infinite Coins]
+[Infinite Coins]
 02100000 38742a89 00000064
 02100000 38742aab 00000064
 
@@ -46,107 +46,107 @@
 04100000 38629088 FFFFFFFF
 04100000 3862908C FFFFFFFF
 
-[o Normal Mario]
+[Normal Mario]
 01100000 387429E7 00000011
 
-[o Normal Mario - With Cap in Hand]
+[Normal Mari- With Cap in Hand]
 02100000 387429E6 00003000
 
-[o Normal Mario - With Cap in Hand (Invincible)]
+[Normal Mari- With Cap in Hand (Invincible)]
 02100000 387429E6 00003200
 
-[o Invincible Mario - With No Cap]
+[Invincible Mari- With NCap]
 02100000 387429E6 00000200
 
-[o Invincible Mario - With Cap]
+[Invincible Mari- With Cap]
 02100000 387429E6 00001200
 
-[o Invincible Mario - With Cap In Hand]
+[Invincible Mari- With Cap In Hand]
 02100000 387429E6 00002200
 
-[o No Cap Mario - With Cap In Hand]
+[NCap Mari- With Cap In Hand]
 01100000 387429E7 00000020
 
-[o No Cap Mario - With Cap in Hand (Invincible)]
+[NCap Mari- With Cap in Hand (Invincible)]
 02100000 387429E6 00006200
 
-[o No Cap Mario - With Wing Cap in Hand]
+[NCap Mari- With Wing Cap in Hand]
 02100000 387429E6 00002800
 
-[o No Cap Mario - With Wing Cap in Hand (Invincible)]
+[NCap Mari- With Wing Cap in Hand (Invincible)]
 02100000 387429E6 00002A00
 
-[o Wing Cap Mario]
+[Wing Cap Mario]
 02100000 387429E6 00005800
 
-[o Wing Cap Mario - (Invincible)]
+[Wing Cap Mari- (Invincible)]
 02100000 387429E6 00005a00
 
-[o Wing Cap Mario - With Wing Cap in Hand]
+[Wing Cap Mari- With Wing Cap in Hand]
 02100000 387429E6 00003800
 
-[o Wing Cap Mario - With Wing Cap in Hand (Invincible)]
+[Wing Cap Mari- With Wing Cap in Hand (Invincible)]
 02100000 387429E6 00003a00
 
-[o Metal Mario]
+[Metal Mario]
 02100000 387429E6 00000400
 
-[o Metal Mario - (Invincible)]
+[Metal Mari- (Invincible)]
 02100000 387429E6 00000400
 
-[o Metal Mario - With Cap in Hand]
+[Metal Mari- With Cap in Hand]
 02100000 387429E6 00002400
 
-[o Metal Mario - With Cap in Hand (Invincible)]
+[Metal Mari- With Cap in Hand (Invincible)]
 02100000 387429E6 00002600
 
-[o Metal Mario - With Wing Cap in Hand]
+[Metal Mari- With Wing Cap in Hand]
 02100000 387429E6 00002c00
 
-[o Metal Mario - With Wing Cap in Hand (Invincible)]
+[Metal Mari- With Wing Cap in Hand (Invincible)]
 02100000 387429E6 00002e00
 
-[o Wing Cap Metal Mario - With Wing Cap in Hand]
+[Wing Cap Metal Mari- With Wing Cap in Hand]
 02100000 387429E6 00003c00
 
-[o Wing Cap Metal Mario - With Wing Cap in Hand (Invincible)]
+[Wing Cap Metal Mari- With Wing Cap in Hand (Invincible)]
 02100000 387429E6 00003e00
 
-[o No Cap Metal Mario]
+[NCap Metal Mario]
 02100000 387429E6 00004c00
 
-[o No Cap Metal Mario - (Invincible)]
+[NCap Metal Mari- (Invincible)]
 02100000 387429E6 00004e00
 
-[o No Cap Metal Mario - With Cap in Hand]
+[NCap Metal Mari- With Cap in Hand]
 02100000 387429E6 00006400
 
-[o No Cap Metal Mario - With Cap in Hand (Invincible)]
+[NCap Metal Mari- With Cap in Hand (Invincible)]
 02100000 387429E6 00006600
 
-[o No Cap Metal Mario - With Wing Cap in Hand]
+[NCap Metal Mari- With Wing Cap in Hand]
 02100000 387429E6 00006c00
 
-[o No Cap Metal Mario - With Wing Cap in Hand (Invincible)]
+[NCap Metal Mari- With Wing Cap in Hand (Invincible)]
 02100000 387429E6 00006e00
 
-[o Invisible Mario]
+[Invisible Mario]
 02100000 387429E6 00008000
 
-[o Invisible Mario - (Invincible)]
+[Invisible Mari- (Invincible)]
 02100000 387429E6 00008200
 
-[o Invisible Metal Mario]
+[Invisible Metal Mario]
 02100000 387429E6 00008400
 
-[o Invisible Wing Cap Mario]
+[Invisible Wing Cap Mario]
 02100000 387429E6 00008800
 
-[o Invisible Wing Cap Mario - (Invincible)]
+[Invisible Wing Cap Mari- (Invincible)]
 02100000 387429E6 00008a00
 
-[o Invisible Wing Cap Metal Mario]
+[Invisible Wing Cap Metal Mario]
 02100000 387429E6 00008c00
 
-[o Invisible Wing Cap Metal Mario - (Invincible)]
+[Invisible Wing Cap Metal Mari- (Invincible)]
 02100000 387429E6 00008e00
